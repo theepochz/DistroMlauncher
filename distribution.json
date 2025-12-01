@@ -18,7 +18,7 @@
             "version": "Alpha 0.0.1",
             "address": "127.0.0.1",
             "minecraftVersion": "0.0.1",
-            "index_json": "/0.0.1A/index.json",
+            "index_json": "https://raw.githubusercontent.com/theepochz/DistroMlauncher/refs/heads/main/0.0.1.json",
             "discord": {
                 "shortId": "Alpha",
                 "largeImageText": "EpochCraft 0.0.1",
