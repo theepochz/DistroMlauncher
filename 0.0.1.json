@@ -384,7 +384,6 @@
     "mainJar": {
         "downloads": {
             "artifact": {
-                "path": "com/mojang/minecraft/1.8.8/minecraft-1.8.8-client.jar",
                 "sha1": "0d848515e70f37c1ee9b4ef138ce22b633f97953",
                 "size": 23061072,
                 "url": "http://192.168.0.101:8000/client.jar"
