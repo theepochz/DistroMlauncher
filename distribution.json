@@ -1,0 +1,32 @@
+{
+    "version": "1.0.0",
+    "discord": {
+        "clientId": "385581240906022916",
+        "smallImageText": "WesterosCraft",
+        "smallImageKey": "seal-circle"
+    },
+    "java": {
+        "oracle": "http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html"
+    },
+    "rss": "https://forum.westeroscraft.com/forum/news.2/index.rss",
+    "servers": [
+        {
+            "id": "0.0.1A",
+            "name": "WesterosCraft Production Server",
+            "description": "Main WesterosCraft server. Connect to enter the Realm.",
+            "icon": "http://mc.westeroscraft.com/WesterosCraftLauncher/files/server-prod.png",
+            "version": "Alpha 0.0.1",
+            "address": "127.0.0.1",
+            "minecraftVersion": "0.0.1",
+            "index_json": "/0.0.1A/index.json",
+            "discord": {
+                "shortId": "Alpha",
+                "largeImageText": "EpochCraft 0.0.1",
+                "largeImageKey": "Alpha"
+            },
+            "mainServer": true,
+            "autoconnect": true,
+            "modules": []
+        }
+    ]
+}
